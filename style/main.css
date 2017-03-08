@@ -3,7 +3,7 @@
   Created on 3/7/17 by Stephen Brimhall
   Copyright (c) 2017 Stephen Brimhall. All Rights Reserved.
 
-  Color Pallete: http://paletton.com/palette.php?uid=33e0s0kllllkOzTl4rklBfmlS9o
+  Color Pallete: http://paletton.com/palette.php?uid=73L1T0kllllaFw0g0qFqFg0w0aF
 */
 
 html {
@@ -46,4 +46,8 @@ body {
 .container > .width-two-thirds {
   width: 67%;
   float: left;
+}
+
+header {
+  background-color:
 }
