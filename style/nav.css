@@ -3,11 +3,11 @@
   Created on 3/7/17 by Stephen Brimhall
   Copyright (c) 2017 Stephen Brimhall. All Rights Reserved.
 
-  Color pallete: http://paletton.com/palette.php?uid=73s0F0kllllkOzTl4rklBfmlS9o
+  Color Pallete: http://paletton.com/palette.php?uid=33e0s0kllllkOzTl4rklBfmlS9o
 */
 
 nav {
-  background-color: #27556C;
+  background-color: #246B61;
   width: 200px;
   height: 600px;
   float: left;
@@ -37,14 +37,14 @@ nav > #navbar .offsite-link a {
 }
 
 nav > #navbar .navbar-divider {
-  background-color: #1C3D4D;
+  background-color: #194D46;
   padding-top: 0.4em;
   padding-bottom: 0.4em;
   padding-left: 10px;
 }
 
 nav > #navbar .navbar-item > a:link, nav > #navbar .navbar-item > a:visited {
-  color: #FFB259;
+  color: #7A5C28;
   list-style: none;
   background-color: #27556C;
   display: block;
@@ -52,13 +52,13 @@ nav > #navbar .navbar-item > a:link, nav > #navbar .navbar-item > a:visited {
 
 
 nav > #navbar .navbar-item > a:hover {
-  background-color: #1C3D4D;
+  background-color: #194D46;
 }
 
 nav > #navbar #current a {
-  background-color: #4B4197;
+  background-color: #A6373F;
 }
 
 nav > #navbar #current a:hover {
-  background-color: #3A3276;
+  background-color: #77272D;
 }
