@@ -7,5 +7,58 @@
 */
 
 nav {
-  bacground-color: #27556C;
+  background-color: #27556C;
+  width: 200px;
+  height: 600px;
+  float: left;
+  padding: 0;
+  overflow: hidden;
+}
+
+ul {
+  padding: 0;
+}
+
+nav > #navbar li {
+  width: 100%;
+  list-style: none;
+}
+
+nav > #navbar a {
+  width: 100%;
+  padding-top: 0.4em;
+  padding-bottom: 0.4em;
+  padding-left: 10px;
+  display: block;
+}
+
+nav > #navbar .offsite-link a {
+  padding-left: 20px;
+}
+
+nav > #navbar .navbar-divider {
+  background-color: #1C3D4D;
+  padding-top: 0.4em;
+  padding-bottom: 0.4em;
+  padding-left: 10px;
+}
+
+nav > #navbar .navbar-item > a:link, nav > #navbar .navbar-item > a:visited {
+  color: #FFB259;
+  list-style: none;
+  background-color: #27556C;
+  display: block;
+}
+
+
+nav > #navbar .navbar-item > a:hover {
+  background-color: #1C3D4D;
+}
+
+nav > #navbar #current a {
+  background-color: #4B4197;
+}
+
+nav > #navbar #current a:hover {
+  background-color: #3A3276;
 }
