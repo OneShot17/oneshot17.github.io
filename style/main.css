@@ -1,11 +1,41 @@
 /*
   main.css
   Created on 3/7/17 by Stephen Brimhall
-  Copyright © 2017 Stephen Brimhall. All rights reserved.
+  Copyright (c) 2017 Stephen Brimhall. All Rights Reserved.
 
   Color pallete: http://paletton.com/palette.php?uid=73s0F0kllllkOzTl4rklBfmlS9o
 */
 
 html {
   background-color: #11252F;
+}
+
+.container > .width-full {
+  width: 100%;
+  float: left;
+}
+
+.container > .width-half {
+  width: 50%;
+  float: left;
+}
+
+.container > .width-quarter {
+  width: 25%;
+  float: left;
+}
+
+.container > .width-three-quarters {
+  width: 75%;
+  float: left;
+}
+
+.container > .width-one-third {
+  width: 33%;
+  float: left;
+}
+
+.container > .width-two-thirds {
+  width: 67%;
+  float: left;
 }
