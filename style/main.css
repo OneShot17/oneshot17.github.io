@@ -49,5 +49,19 @@ body {
 }
 
 header {
-  background-color:
+  background-color: #AA3939;
+  height: 125px;
+}
+
+footer {
+  background-color: #2D882D;
+  height: 50px;
+}
+
+.float-fixer {
+  clear: both;
+}
+
+h1, h2, h3, h4, h5, h6 {
+
 }

@@ -37,14 +37,14 @@ nav > #navbar .offsite-link a {
 }
 
 nav > #navbar .navbar-divider {
-  background-color: #116611;
+  background-color: #162955;
   padding-top: 0.4em;
   padding-bottom: 0.4em;
   padding-left: 10px;
 }
 
 nav > #navbar .navbar-item > a:link, nav > #navbar .navbar-item > a:visited {
-  color: #FFC259;
+  color: #D4B16A;
   list-style: none;
   background-color: #2E4272;
   display: block;
