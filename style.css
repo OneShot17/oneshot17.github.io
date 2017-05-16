@@ -28,3 +28,9 @@ th {
 	color: #ffffff;
 	background-color: #003366;
 }
+
+img {
+	padding-left: auto;
+	padding-right: auto;
+	width: 1000px;
+}
