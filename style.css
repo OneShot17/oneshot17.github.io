@@ -30,7 +30,8 @@ th {
 }
 
 img {
-	padding-left: auto;
-	padding-right: auto;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 	width: 1000px;
 }
